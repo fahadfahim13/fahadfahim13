@@ -17,7 +17,6 @@
 
 <br>
 <br>
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Fahim Hasnain Fahad</h1>
 <h3 align="center">Software Engineer | Frontend Engineer | Programmer | Problem Solver || React | Redux | JavaScript | TypeScript | NodeJs | Express | Python | Django</h3>
