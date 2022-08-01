@@ -1,4 +1,3 @@
-## Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahim-hasnain-554618130/">
@@ -7,6 +6,7 @@
 <!-- <a href="https://twitter.com/F__Abdul">
     <img src="https://img.shields.io/badge/-@F__Abdul-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
 </a> -->
+ </p>
  
 <!-- 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
