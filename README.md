@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **AWS**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zzohhGF4gkDQa_T_OWbYw__ICPNcIO0e/view?usp=sharing](https://drive.google.com/file/d/1zzohhGF4gkDQa_T_OWbYw__ICPNcIO0e/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1zzohhGF4gkDQa_T_OWbYw__ICPNcIO0e/view?usp=sharing">My resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
