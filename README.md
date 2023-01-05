@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Web Scrapper Project](https://github.com/fahadfahim13/WebScrapper.git)
 
-- 🌱 I’m currently learning **NodeJs, Express, AWS**
+- 🌱 I’m currently learning **Ruby on Rails**
 
-- 🤝 I’m looking for help with **AWS**
+- 🤝 I’m looking for help with **Ruby on Rails**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1zzohhGF4gkDQa_T_OWbYw__ICPNcIO0e/view?usp=sharing">My resume</a>
 
