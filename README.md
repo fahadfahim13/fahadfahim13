@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Web Scrapper Project](https://github.com/fahadfahim13/WebScrapper.git)
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Flutter**
 
-- 🤝 I’m looking for help with **Ruby on Rails**
+- 🤝 I’m looking for help with **Flutter**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1vCDz7ztZTHPIY3bM2cXC6FXmLVEhvYJ2/view?usp=share_link">My resume</a>
 
