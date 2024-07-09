@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Fahim Hasnain Fahad</h1>
-<h3 align="center">Software Engineer | Frontend Engineer | Programmer | Problem Solver || React | Redux | JavaScript | TypeScript | NodeJs | Express | Python | Django</h3>
+<h3 align="center">Software Engineer | Frontend Engineer | Programmer | Problem Solver || NextJS | React | Redux | NodeJs | Express | JavaScript | TypeScript | Python | Django</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadfahim13&label=Profile%20views&color=0e75b6&style=flat" alt="fahadfahim13" /> </p>
 
 
-- 🔭 I’m currently working on [Web Scrapper Project](https://github.com/fahadfahim13/WebScrapper.git)
+- 🔭 I’m currently working on [AI Resume Builder Project]
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **React Native**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1vCDz7ztZTHPIY3bM2cXC6FXmLVEhvYJ2/view?usp=share_link">My resume</a>
 
