@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Fahim Hasnain Fahad</h1>
-<h3 align="center">Software Engineer || DevOps & AI Engineer || AWS Expert | Node | React | NextJS | Redux | JavaScript | TypeScript | Python | Django</h3>
+<h3 align="center">Software Engineer || AWS | Node | React | NextJS | JavaScript | TypeScript | Python | Django</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadfahim13&label=Profile%20views&color=0e75b6&style=flat" alt="fahadfahim13" /> </p>
 
 
 - 🔭 I’m currently working on [AI Resume Builder Project]
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Kafka**
 
-- 🤝 I’m looking for help with **Data Engineering**
+- 🤝 I’m looking for help with **Scalable System Design**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1vCDz7ztZTHPIY3bM2cXC6FXmLVEhvYJ2/view?usp=share_link">My resume</a>
+- 📄 Know about my experiences <a href="https://fahadfahimdev.vercel.app/">My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
