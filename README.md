@@ -1,43 +1,197 @@
-<h1 align="center">Hi 👋, I'm Fahim Hasnain Fahad</h1>
-<h3 align="center">Software Engineer || AWS | Node | React | NextJS | JavaScript | TypeScript | Python | Django</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadfahim13&label=Profile%20views&color=0e75b6&style=flat" alt="fahadfahim13" /> </p>
+# Fahim Hasnain Fahad
 
+**Senior Full-Stack & AI Engineer**
 
-- 🔭 I’m currently working on [AI Resume Builder Project]
+Building production systems that ship, scale, and make money.
 
-- 🌱 I’m currently learning **Kafka**
+[![Portfolio](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://fahadfahimdev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-hasnain-fahad-554618130/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/fahimhasnainf?mp_source=share)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadfahim13@gmail.com)
 
-- 🤝 I’m looking for help with **Scalable System Design**
+</div>
 
-- 📄 Know about my experiences <a href="https://fahadfahimdev.vercel.app/">My Portfolio</a>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/fahim-hasnain-554618130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahim-hasnain-554618130/" height="30" width="40" /></a>
-</p>
+### 👋 The Short Version
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+7+ years shipping production code. BUET CS grad. Built systems serving **300K+ users**, cut AWS costs by **60%**, and now deep in **Agentic AI** building voice bots and multi-agent systems that automate real business workflows.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadfahim13&show_icons=true&locale=en&layout=compact" alt="fahadfahim13" /></p>
+Currently: **AI Agentic Engineer** @ OrionQ — building RevOps automation, voice AI, and conversational systems.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadfahim13&show_icons=true&locale=en" alt="fahadfahim13" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadfahim13&" alt="fahadfahim13" /></p>
+### 🔥 What I Actually Do
 
+```
+Full-Stack Development     ████████████████████  Expert
+AI & LLM Integration       ████████████████████  Expert  
+Cloud Architecture (AWS)   ██████████████████░░  Advanced
+Data Engineering           ██████████████████░░  Advanced
+Voice AI Systems           ████████████████░░░░  Advanced
+```
 
-<!--
-**fahadfahim13/fahadfahim13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I build:**
+- 🤖 **AI Agents** — Multi-agent orchestration with CrewAI, LangGraph, custom workflows
+- 🎙️ **Voice AI** — Twilio, ElevenLabs, Retell AI for real customer conversations
+- ⚡ **Serverless APIs** — AWS Lambda, API Gateway, sub-100ms response times
+- 📊 **Data Pipelines** — Scraping, ETL, migrations handling 300K+ records
+- 🚀 **SaaS Platforms** — Multi-tenant, subscription systems, admin dashboards
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+<details>
+<summary><b>Frontend</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Backend</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>AI & Machine Learning</b></summary>
+<br>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+
+**Frameworks:** CrewAI, LangGraph, AutoGen  
+**Voice:** Twilio, ElevenLabs, Retell AI, Vapi  
+**Models:** GPT-4o, Claude, Flux, Replicate
+
+</details>
+
+<details>
+<summary><b>Databases</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>Cloud & DevOps</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**AWS:** Lambda, EC2, ECS, S3, DynamoDB, Cognito, SQS, SNS, EventBridge, API Gateway  
+**IaC:** CDK, Serverless Framework, CloudFormation
+
+</details>
+
+<details>
+<summary><b>Automation & Data</b></summary>
+<br>
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+**Tools:** n8n, Custom ETL pipelines, Web scraping infrastructure  
+**Analytics:** Customer.io, Marketing dashboards
+
+</details>
+
+---
+
+### 📈 Recent Work
+
+| Project | What It Does | Tech |
+|---------|--------------|------|
+| **AI Agentic Systems** | RevOps automation, voice AI, conversational systems | CrewAI, Twilio, ElevenLabs |
+| **Crypto Intelligence Crew** | Multi-agent market analysis with real-time alerts | CrewAI, LangGraph, Telegram |
+| **Business Data Platform** | Scraping 300K+ listings, AI content generation | Node.js, PostgreSQL, Custom scrapers |
+| **Medical AI Guidance** | GPT-4o symptom analysis with safety guardrails | OpenAI, React, Node.js |
+| **AI Image Generation** | Professional headshots via Flux1.1 Pro | Replicate, Credit system |
+
+---
+
+### 💼 Career Snapshot
+
+```
+2025      AI & Data Engineer @ OrionQ (Contract)
+          Full-Stack Engineer @ BizScout
+          
+2024      Full-Stack AI Engineer @ Fibb AI, SaveLife AI
+
+2022-24   Software Engineer @ Renew Financial (Fintech)
+
+2021-22   Software Engineer @ AMAG (Australia)
+
+2020-21   Software Engineer @ Ixora Solution
+
+2019-20   Junior Engineer @ Rokkhi Ltd (10K+ concurrent users)
+```
+
+**Education:** BSc Computer Science & Engineering — **BUET** (Bangladesh's #1 engineering institution)
+
+---
+
+### 🎯 What I'm Looking For
+
+- **AI Agent Development** — Building autonomous systems that actually work
+- **Voice AI Projects** — Customer support, sales, real-time conversations
+- **Complex Integrations** — Multi-system workflows, API orchestration
+- **Technical Leadership** — Architecture decisions, team scaling
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahimfahad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimfahad&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 🤝 Let's Talk
+
+Building something that needs AI, voice, or serious backend muscle?
+
+- **Quick chat:** [Book a call](https://calendly.com/fahadfahim13/15min)
+- **Upwork:** [Hire me]([https://upwork.com/freelancers/fahimfahad](https://www.upwork.com/freelancers/fahimhasnainf?mp_source=share))
+- **Email:** fahadfahim13@gmail.com
+
+<div align="center">
+
+*Based in Dhaka, Bangladesh 🇧🇩 • Serving US, Canada & Australia • UTC+6*
+
+</div>
+
+---
+
+<div align="center">
+<i>"I don't write code that compiles. I ship systems that make money."</i>
+</div>
