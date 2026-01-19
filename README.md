@@ -6,7 +6,7 @@
 
 Building production systems that ship, scale, and make money.
 
-[![Portfolio](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://fahadfahimdev.vercel.app/)
+[(![Portfolio](https://img.shields.io))](https://fahadfahimdev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-hasnain-fahad-554618130/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/fahimhasnainf?mp_source=share)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadfahim13@gmail.com)
