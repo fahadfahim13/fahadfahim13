@@ -6,7 +6,8 @@
 
 Building production systems that ship, scale, and make money.
 
-[(![Portfolio](https://img.shields.io))](https://fahadfahimdev.vercel.app/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fahadfahimdev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-hasnain-fahad-554618130/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/fahimhasnainf?mp_source=share)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadfahim13@gmail.com)
@@ -15,7 +16,7 @@ Building production systems that ship, scale, and make money.
 
 ---
 
-### 👋 The Short Version
+### 👋 Summary
 
 7+ years shipping production code. BUET CS grad. Built systems serving **300K+ users**, cut AWS costs by **60%**, and now deep in **Agentic AI** building voice bots and multi-agent systems that automate real business workflows.
 
@@ -151,7 +152,7 @@ Voice AI Systems           ████████████████░�
 2019-20   Junior Engineer @ Rokkhi Ltd (10K+ concurrent users)
 ```
 
-**Education:** BSc Computer Science & Engineering — **BUET** (Bangladesh's #1 engineering institution)
+**Education:** BSc Computer Science & Engineering — **BUET** (Bangladesh University of Engineering & Technology)
 
 ---
 
@@ -181,7 +182,7 @@ Voice AI Systems           ████████████████░�
 Building something that needs AI, voice, or serious backend muscle?
 
 - **Quick chat:** [Book a call](https://calendly.com/fahadfahim13/15min)
-- **Upwork:** [Hire me]([https://upwork.com/freelancers/fahimfahad](https://www.upwork.com/freelancers/fahimhasnainf?mp_source=share))
+- **Upwork:** [Hire me](https://www.upwork.com/freelancers/fahimhasnainf?mp_source=share)
 - **Email:** fahadfahim13@gmail.com
 
 <div align="center">
